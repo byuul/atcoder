@@ -1,3 +1,3 @@
-function main(input) {}
+function Main(input) {}
 
-main(require("fs").readFileSync("/dev/stdin", "utf8"));
+Main(require("fs").readFileSync("/dev/stdin", "utf8"));
